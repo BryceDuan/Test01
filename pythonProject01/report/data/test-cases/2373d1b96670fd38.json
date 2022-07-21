@@ -1,12 +1,12 @@
 {
-  "uid" : "69ff62329f1f1de6",
+  "uid" : "2373d1b96670fd38",
   "name" : "test_01_jk",
   "fullName" : "testcase_jk.test_jk_01.TestJK#test_01_jk",
   "historyId" : "65cc11c4b240a415feadf494fbdd8ab2",
   "time" : {
-    "start" : 1658413637216,
-    "stop" : 1658413637764,
-    "duration" : 548
+    "start" : 1658417479482,
+    "stop" : 1658417481614,
+    "duration" : 2132
   },
   "status" : "passed",
   "flaky" : false,
@@ -27,7 +27,7 @@
     "value" : "DESKTOP-J1S2E8B"
   }, {
     "name" : "thread",
-    "value" : "7424-MainThread"
+    "value" : "14320-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -51,6 +51,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "69ff62329f1f1de6.json",
+  "source" : "2373d1b96670fd38.json",
   "parameterValues" : [ ]
 }
